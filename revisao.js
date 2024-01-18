@@ -5,7 +5,7 @@ numero = 20; // erro
 const frutas = [];
 frutas.push("banana");
 
-const pessoas = { id: 1, nome: "Jose" };
+const pessoas = { id: 1, nome: "Guilherme" };
 pessoa.sexo = 'M';
 pessoa = {id: 2, nome: "Maria"};
 
